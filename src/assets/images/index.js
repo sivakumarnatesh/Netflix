@@ -1,0 +1,19 @@
+/* eslint-disable prettier/prettier */
+export const SPLASH_SCREEN_LOGO = require('./Netflix.png');
+export const LOGIN_LOGO = require('./Login.webp');
+export const HOME_ICON = require('./Home.png');
+export const STORE_ICON = require('./Store.png');
+export const FIND_ICON = require('./Find.png');
+export const SETTINGS_ICON = require('./Settings.png');
+export const HOME_INACTIVE = require('./Home_Inactive.png');
+export const STORE_INACTIVE = require('./Store_Inactive.png');
+export const FIND_INACTIVE = require('./Search_Inactive.png');
+export const SETTINGS_INACTIVE = require('./Settings_Inactive.png');
+export const HOME_ACTIVE = require('./Home_Active.png');
+export const STORE_ACTIVE = require('./Store_Active.png');
+export const FIND_ACTIVE = require('./Search_Active.png');
+export const SETTINGS_ACTIVE = require('./Settings_Active.png');
+export const LIST1 = require('./movie1.png');
+export const LIST2 = require('./movie2.png');
+export const LIST3 = require('./movie3.png');
+export const LIST4 = require('./movie4.png');
